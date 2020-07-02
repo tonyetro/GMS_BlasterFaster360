@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "22a3ae20-b293-4a52-8757-21db26fc7a89",
+            "Value": {
+                "id": "5bdddc7f-e7fb-4dee-a1aa-dde43a49b4f3",
+                "resourcePath": "scripts\\bounce_off_screen_edge\\bounce_off_screen_edge.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "24ddf71b-7c3c-40f0-925d-2597c82d5f35",
             "Value": {
                 "id": "a5ea91cc-7c79-4a35-a5df-c59611690d3c",
@@ -408,7 +416,7 @@
         }
     ],
     "script_order": [
-        
+        "22a3ae20-b293-4a52-8757-21db26fc7a89"
     ],
     "tutorial": ""
 }
