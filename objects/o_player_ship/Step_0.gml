@@ -10,7 +10,7 @@ if (_thrust)
 	motion_add(image_angle, acceleration);
 	if (speed > max_speed)
 	{
-		clamp(speed, 0, max_speed);
+		speed = max_speed;
 	}
 	var _offset = random_range(-4, 4);
 	var _length = -14;

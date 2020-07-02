@@ -50,7 +50,7 @@
             "Key": "122c0603-d8f1-4138-a4b1-e148c2381afb",
             "Value": {
                 "id": "155f57f3-ef64-45e9-b910-c4c09ee777b4",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\r_space\\r_space.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -68,6 +68,14 @@
                 "id": "eded861a-0d63-4511-a24f-1a17d5f1cea6",
                 "resourcePath": "views\\13e7b8ce-56aa-4aa4-bd93-012c05bd43d5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "22a3ae20-b293-4a52-8757-21db26fc7a89",
+            "Value": {
+                "id": "5bdddc7f-e7fb-4dee-a1aa-dde43a49b4f3",
+                "resourcePath": "scripts\\bounce_off_screen_edge\\bounce_off_screen_edge.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -408,7 +416,7 @@
         }
     ],
     "script_order": [
-        
+        "22a3ae20-b293-4a52-8757-21db26fc7a89"
     ],
     "tutorial": ""
 }
